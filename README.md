@@ -11,6 +11,7 @@ Welcome to my GitHub profile!
 - 👯 I’m looking to collaborate on ...
      - Go
      - Node.js
+     - Python
 
 - 💬 Ask me about ...
      - GO
