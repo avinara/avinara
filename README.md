@@ -1,3 +1,11 @@
+
+<a href="https://www.linkedin.com/in/avinash-narasimhan//" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+</a>
+<a href="https://x.com/avinash_nara" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40"/>
+</a> 
+
 ## Hi there 👋 I'm Avinash Narasimhan
 
 Welcome to my GitHub profile! 
@@ -20,7 +28,7 @@ Welcome to my GitHub profile!
   
 - 📫 How to reach me:
 Feel free to reach out to me on
-[LinkedIn](https://www.linkedin.com/in/yourlinkedin/) or [Twitter](https://twitter.com/yourtwitterhandle).
+
 
 
 
