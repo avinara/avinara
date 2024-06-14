@@ -31,5 +31,3 @@ Feel free to reach out to me on
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinara&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avinara&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=avinara)
