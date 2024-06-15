@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40"/>
 </a> 
 
-## Hi there 👋 I'm Avinash Narasimhan
+              ## Hi there 👋 I'm Avinash Narasimhan
 
 Welcome to my GitHub profile! 
 
@@ -25,10 +25,8 @@ Welcome to my GitHub profile!
      - GO
      - Node.js
      - Docker
-  
-- 📫 How to reach me:
-Feel free to reach out to me on
 
+  
 
 
 
